@@ -2,8 +2,8 @@
 ![Web Dev Course](https://res.cloudinary.com/practicaldev/image/fetch/s--5BE7K-TS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7st7pf695ib67fqg2ddp.png)
 
 ## Contents
-Introduction to HTML
-HTML Tags
+### Introduction to HTML
+### HTML Tags
 
 
 ## Introduction to HTML
