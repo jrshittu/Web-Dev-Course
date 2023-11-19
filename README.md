@@ -4,7 +4,7 @@
 ## HTML Tags
 
 ## Introduction to HTML
-HTML (HyperText Markup Language) is the foundation of web pages. It defines the structure and content of a web page, telling browsers how to display text, images, links, and other elements. HTML is a markup language, meaning it uses tags to indicate different parts of a web page. For example, the <h1> tag indicates a heading, and the <p> tag indicates a paragraph.
+HTML (HyperText Markup Language) is the foundation of web pages. It defines the structure and content of a web page, telling browsers how to display text, images, links, and other elements. HTML is a markup language, meaning it uses tags to indicate different parts of a web page. For example, the h1 tag indicates a heading, and the p tag indicates a paragraph.
 
 HTML is used to define the structure and content of a web page: HTML tells browsers how to display text, images, links, and other elements.
 
