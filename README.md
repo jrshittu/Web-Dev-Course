@@ -11,9 +11,11 @@ HTML is used to define the structure and content of a web page: HTML tells brows
 ## HTML Tags
 
 ### Structure Tags
+```
 <html>: The root element of an HTML document.
 <head>: Contains information about the document, such as the title and meta tags.
 <body>: Contains the visible content of the document, such as text, images, and links.
+```
 
 ### Text Formatting Tags
 ```text
@@ -28,18 +30,27 @@ HTML is used to define the structure and content of a web page: HTML tells brows
 ```
 
 ### List Tags
+```
 <ul>: Unordered list tag.
 <ol>: Ordered list tag.
 <li>: List item tag.
+```
 
 ### Link Tags
+```
 <a> Anchor tag, used to create hyperlinks.
+```
 
 ### Image Tag
+```
 <img> Image tag, used to embed an image into a web page.
-Table Tags
+```
 
-### <table>: Table tag, used to create a table.
+### Table Tags
+
+```
+<table>: Table tag, used to create a table.
 <tr>: Table row tag.
 <th>: Table header cell tag.
 <td>: Table data cell tag.
+```
