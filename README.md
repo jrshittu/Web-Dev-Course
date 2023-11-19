@@ -16,6 +16,7 @@ HTML is used to define the structure and content of a web page: HTML tells brows
 <body>: Contains the visible content of the document, such as text, images, and links.
 
 ### Text Formatting Tags
+```text
 <h1> to <h6>: Heading tags, with <h1> being the largest and <h6> being the smallest.
 <p>: Paragraph tag, used to define a block of text.
 <b>: Bold text tag.
@@ -24,6 +25,7 @@ HTML is used to define the structure and content of a web page: HTML tells brows
 <small>: Smaller text tag.
 <del>: Deleted text tag.
 <ins>: Inserted text tag.
+```
 
 ### List Tags
 <ul>: Unordered list tag.
