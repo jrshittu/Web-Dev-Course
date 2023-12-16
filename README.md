@@ -1,14 +1,11 @@
-# Web-Dev-Course: All you need to know to Master Html CSS and Javascript
-![Web Dev Course](https://res.cloudinary.com/practicaldev/image/fetch/s--5BE7K-TS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7st7pf695ib67fqg2ddp.png)
-
 ## Contents
-- [Introduction to HTML](#intro)
-- [HTML Tags](#tags)
-- [Project 1](#p1)
-- [Project 2](#p2)
-- [Project 3](#p3)
-- [Conclusion](#conclude)
-- [References](#ref)
+[Introduction to HTML](#intro)
+[HTML Tags](#tags)
+[Project 1](#p1)
+[Project 2](#p2)
+[Project 3](#p3)
+[Conclusion](#conclude)
+[References](#ref)
 
 
 ## Introduction to HTML <a name="intro"></a>
@@ -50,10 +47,41 @@ Check the published project [here](https://jrshittu-gmail-com.trinket.io/sites/a
 
 Click [here](https://trinket.io/html/daad5e23a7) to create your own
 
+Click on the image below to watch the tutorial video.
+
+{% embed https://youtu.be/jTPCLX7KJjY?si=_v9E7x77CGZAxGfs %}
+
+
 ## Project 2 <a name="p2"></a>
+Tell a Story: Finished Project
+https://trinket.io/html/227151348e
+
+Click [here](https://trinket.io/embed/html/8083cfebb3) to create your own
+
+Click [here](https://projects.raspberrypi.org/en/projects/tell-a-story) for the step by step instructions to create Project 2
 
 ## Project 3 <a name="p3"></a>
+Wanted: Finished Project
+https://trinket.io/html/75a49f4a76
+
+Click [here](https://trinket.io/embed/html/58318bee1f) to create your own
+
+Click [here](https://projects.raspberrypi.org/en/projects/wanted) for the step-by-step instructions to create Project 3
 
 ## Conclusion <a name="conclude"></a>
 
+In conclusion, HTML is a fundamental language for web development, providing the structure and content for web pages. Understanding HTML tags is crucial for creating well-organized and visually appealing websites. The projects presented here serve as practical examples to apply HTML knowledge in real-world scenarios.
+
+Project 1 demonstrates the creation of a mini-site for Arsenal, showcasing how to structure content, use images, and incorporate links. 
+
+Project 2, "Tell a Story," allows for creative expression by using HTML to narrate a story with text and images. 
+
+Lastly, Project 3, "Wanted," provides an interactive and dynamic example that combines HTML and CSS to create a visually appealing wanted poster.
+
+By working on these projects and exploring the associated resources, you can enhance your HTML skills and gain a better understanding of how to create diverse and engaging web content.
+
 ## References <a name="ref"></a>
+
+1. [HTML Tutorial - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+2. [Trinket - HTML Projects](https://trinket.io/html)
+3. [Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects)
